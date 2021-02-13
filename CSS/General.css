@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    color: hotpink;
+    height: 100px;
+}
+
+header {
+    text-align: center;
+    background-color: black;
+}
+
+aside {
+    position: absolute;
+    right: 10px;
+    width: 20%;
+    background-color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    position:sticky
+}
